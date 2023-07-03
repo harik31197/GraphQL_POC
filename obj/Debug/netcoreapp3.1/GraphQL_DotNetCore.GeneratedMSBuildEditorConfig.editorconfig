@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GraphQL_DotNetCore
+build_property.ProjectDir = C:\Working\TestApplication\GraphQL_DotNetCore\GraphQL_DotNetCore\
